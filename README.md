@@ -6,3 +6,5 @@ As of now this is a project in process, with still aways to go, as I am working 
 
 This application is intended to showcase my animation, transition and other coding skills in addition to my User Experience 
 and User Interface skills 
+
+This project was created in Swift 4 using Xcode 9.3 Beta 2
